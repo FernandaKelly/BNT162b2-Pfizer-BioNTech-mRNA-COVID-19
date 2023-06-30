@@ -1,3 +1,3 @@
-# BNT162b2-Pfizer-BioNTech-mRNA-COVID-19
+# BNT162b2 mRNA COVID-19 against symptomatic Omicron Infection following a mass vaccination campaign in southern Brazil: a prospective test-negative design study
 
-  Registro Clinical Trials - **ID: [NCT05052307](https://www.clinicaltrials.gov/study/NCT05052307?cond=NCT05052307&rank=1)**
+Trial Registration Number - **ID: [NCT05052307](https://www.clinicaltrials.gov/study/NCT05052307?cond=NCT05052307&rank=1)**
